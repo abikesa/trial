@@ -1,6 +1,4 @@
 
 
 
-<iframe src="https://jhustata.github.io/trial/" width="800" height="100"></iframe>
-
-
+<iframe src="https://jhustata.github.io/trial/" width="100%" height="300" style="border:none;"></iframe>
